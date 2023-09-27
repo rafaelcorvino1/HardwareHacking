@@ -1,0 +1,5 @@
+scripts -> https://github.com/CedArctic/DigiSpark-Scripts
+mudar o tipo de teclado para ABNT2 - >https://github.com/jcldf/digisparkABNT2
+https://github.com/Giuzus/digikeyboard-abnt 
+abrir powershell sem mostrar na tela
+https://github.com/CedArctic/DigiSpark-Scripts/blob/master/Execute_Powershell_Script/Execute_Powershell_Script.ino
