@@ -1,0 +1,14 @@
+Arduino IDE, Arquivo -> Preferências e adicione as URLs a seguir à seção "URLs Adicionais para o Gerenciador de Placas":https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
+No Arduino IDE, vá em Ferramentas -> Placa -> Gerenciador de Placas e pesquise pelo pacote "deauther".
+
+git clone https://github.com/SpacehuhnTech/esp8266_deauther
+cd esp8266
+git checkout v3
+Abrir "esp8266_deauther.ino" dentro da pasta "esp8266_deauther" no Arduino IDE.
+
+Selecione a placa ESP8266 Deauther no Arduino IDE em Ferramentas -> Placa.
+Conecte o seu dispositivo (ESP8266) ao computador e selecione a porta serial em Ferramentas -> Porta.
+
+Clique no botão "Enviar" (Upload) no Arduino IDE para carregar o código no seu dispositivo.
+
+Usar no terminal do huhnitor
